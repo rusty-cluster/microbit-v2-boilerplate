@@ -1,6 +1,6 @@
 # Rust boilerplate for LSM303AGR
 
-## [Discovery](https://docs.rust-embedded.org/discovery/)
+## [Discovery](https://docs.rust-embedded.org/discovery/microbit/)
 
 ## Setup
 
